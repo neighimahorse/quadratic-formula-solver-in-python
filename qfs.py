@@ -9,4 +9,5 @@ def quadraticFormulaXSolver(a, b, c):
 if __name__ == "__main__":
     #test, should output 5 and -3
 
-   print(QuadraticFormulaXSolver(2,-4,-30))
+   print(quadraticFormulaXSolver(2,-4,-30))
+
